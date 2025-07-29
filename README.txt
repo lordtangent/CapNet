@@ -1,3 +1,9 @@
+# Build video here:
+https://www.youtube.com/watch?v=krbjyLcZRz0
+
+# More info here:
+https://68kmla.org/bb/index.php?threads/transformers-for-homemade-localtalk-phonenet-dongles.47052/page-4#post-533419
+
 # CapNet
 An implementation of CapNet by Nate Hawthorn (Mr. 6502)
 
